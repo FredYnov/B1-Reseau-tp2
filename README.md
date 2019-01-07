@@ -49,3 +49,6 @@ La Gateway sert à faire le lien entre notre réseau local et le réseau Interne
 ###### Masque = 11111111.11111111.11111100.00000000
 ###### Réseau = 00001010.00100001.00000000.00000000
 
+1ère adresse IP dispo: 10.33.0.1
+Dernière adresse IP dispo: 10.33.3.254
+
