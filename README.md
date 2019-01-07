@@ -16,3 +16,14 @@ Adresse IP: 10.33.2.18/22
 Nom, adresse MAC et adresse IP de l'interface Ethernet:
 
 Pas de Port Ethernet
+
+**Pour le réseau WIFI:**
+
+**Adresse Réseau:** Adresse IP = 10.33.2.18/22 en binaire = 00001010.00100001.00000010.00010010
+
+**Masque:** 255.255.252.0 en binaire = 11111111.11111111.11111100.00000000
+
+L'adresse de réseau est donc **00001010.00100001.00000000.00000000**
+
+**Adresse Broadcast:** 10.33.3.255
+
