@@ -52,3 +52,13 @@ La Gateway sert à faire le lien entre notre réseau local et le réseau Interne
 1ère adresse IP dispo: 10.33.0.1
 Dernière adresse IP dispo: 10.33.3.254
 
+*J'ai du installer un package pour pouvoir utiliser nmap*
+
+**nmap -sn -PE 10.33.0.0/22**
+
+**Résultat:**
+
+![](https://i.imgur.com/ZtiU0iu.png)
+
+# **Partie 2 - Exploration locale en duo**
+
