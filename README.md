@@ -60,5 +60,7 @@ Dernière adresse IP dispo: 10.33.3.254
 
 ![](https://i.imgur.com/ZtiU0iu.png)
 
+Au Campus Ynov, il y a 1024 adresses IP dispos au total
+
 # **Partie 2 - Exploration locale en duo**
 
