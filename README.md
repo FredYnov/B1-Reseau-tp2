@@ -12,3 +12,7 @@ Nom, adresse MAC et adresse IP de l'interface Wifi:
 Nom: en0
 Adresse MAC: 88:e9:fe:7e:4d:2a
 Adresse IP: 10.33.2.18/22
+
+Nom, adresse MAC et adresse IP de l'interface Ethernet:
+
+Pas de Port Ethernet
