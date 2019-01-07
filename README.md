@@ -64,3 +64,6 @@ Au Campus Ynov, il y a 1024 adresses IP dispos au total
 
 # **Partie 2 - Exploration locale en duo**
 
+En ce qui concerne la partie en Duo, nous avons rencontrés le problème des ports Ethernet. Nous sommes trois et seul 1 des participants possèdent un adaptateur pour port Ethernet. Nous nous sommes mis d'accord pour en acheter un second et faire les tests dans les jours à venir pour mettre en pratique l'exercice demandé.
+
+Pour ma part, j'ai essayé de réaliser l'exercice avec une machine virtuelle mais sans succès. Là aussi, je n'ai pas dit mon dernier mot.
