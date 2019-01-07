@@ -27,3 +27,10 @@ L'adresse de réseau est donc **00001010.00100001.00000000.00000000**
 
 **Adresse Broadcast:** 10.33.3.255
 
+**Affichez votre Gateway:**
+
+Pour déterminer la Gateway, j'ai fait un **traceroute 12.34.56.78**, ce qui m'a retourné ces informations:
+
+![](https://i.imgur.com/SZDT8Y9.png)
+
+Selon moi, l'adresse IP de la passerelle est: **10.33.3.253**.
