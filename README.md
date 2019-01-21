@@ -72,12 +72,6 @@ Host is up.
 Nmap done: 1024 IP addresses (207 hosts up) scanned in 34.91 seconds
 MacBook-Pro-de-Fred:~ fredcharruyer$ 
 
-**nmap -sn -PE 10.33.0.0/22**
-
-**Résultat:**
-
-![](https://i.imgur.com/ZtiU0iu.png)
-
 Au Campus Ynov, il y a **1024 adresses IP** au total
 
 ### **Partie 2 - Exploration locale en duo**
@@ -123,7 +117,7 @@ Après 2h passé à essayer de faire la commande nc -l -p 8888, sur le mac de ma
 ### 6. WireShark
 On a pas forcement tout compris de ce truc, mais je te joins un screen des connexions que j'ai filtrer, meme si je vois pas l'interet.
 
-![alt text](https://github.com/Sascha40/TP2-Reseau/blob/master/images/Capture%20d’écran%202019-01-21%20à%2017.16.59.png)
+![alt text](https://github.com/FredYnov/B1-Reseau-tp2/blob/master/Capture%20e%CC%81cran/Capture%202.png)
 
 ### 7. Firewall
 
@@ -140,7 +134,7 @@ Il nous reponds :
 
 Pour ce qui est de la durée du bail nous ne parvenons pas à trouver la durée du bail dhcp sur mac. Mais il y a un onglet duration sur la commande `system_profiler SPNetworkDataType`
 
-![alt text](https://github.com/Sascha40/TP2-Reseau/blob/master/images/Capture%20d’écran%202019-01-21%20à%2017.47.47.png)
+![alt text](https://github.com/FredYnov/B1-Reseau-tp2/blob/master/Capture%20e%CC%81cran/Capture%203.png)
 
 ---
 
@@ -164,7 +158,7 @@ Avec la commande **`system_profiler SPNetworkDataType`**
 
 Bien que notre commande nous fourni aussi une deuxieme adresse IP du serveur DNS: la **`10.33.10.7`**
 
-![alt text](https://github.com/Sascha40/TP2-Reseau/blob/master/images/Capture%20d’écran%202019-01-21%20à%2018.00.46.png)
+![alt text](https://github.com/FredYnov/B1-Reseau-tp2/blob/master/Capture%20e%CC%81cran/Capture%204.png)
 
 ---
 ---
